@@ -1,0 +1,289 @@
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\Program.exe
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\Program.deps.json
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\Program.runtimeconfig.json
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\Program.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\Program.pdb
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.csproj.Up2Date
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\obj\Debug\net6.0-windows\refint\Program.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.pdb
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\obj\Debug\net6.0-windows\ref\Program.dll
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.frmLogin.resources
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.frmBookable.resources
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.frmReservation.resources
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.frmAvailable.resources
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.Admin.frmMenu.resources
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.Admin.frmStudent.resources
+C:\Users\ASUS\source\repos\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.Admin.frmSlot.resources
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\Program.exe
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\Program.deps.json
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\Program.runtimeconfig.json
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\Program.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\Program.pdb
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\Azure.Core.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\Azure.Identity.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\Humanizer.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\System.Memory.Data.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.csproj.AssemblyReference.cache
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.Admin.frmLabs.resources
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.Admin.frmMenu.resources
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.Admin.frmSlot.resources
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.Admin.frmStudent.resources
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.frmAvailable.resources
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.frmBookable.resources
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.frmLogin.resources
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.frmReservation.resources
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.csproj.GenerateResource.cache
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.AssemblyInfoInputs.cache
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.AssemblyInfo.cs
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.csproj.CoreCompileInputs.cache
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.csproj.CopyComplete
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\obj\Debug\net6.0-windows\refint\Program.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.pdb
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.genruntimeconfig.cache
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\obj\Debug\net6.0-windows\ref\Program.dll
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.Admin.frmReservations.resources
+E:\Ky5FPT\PRN211\projectprn LAB\Lab Reservation System\Program\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.Admin.frmLabs.resources
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.Admin.frmMenu.resources
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.Admin.frmReservations.resources
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.Admin.frmSlot.resources
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.Admin.frmStudent.resources
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.frmAvailable.resources
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.frmBookable.resources
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.frmLogin.resources
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.frmReservation.resources
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\obj\Debug\net6.0-windows\refint\Program.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.pdb
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Program.exe
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Program.deps.json
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Program.runtimeconfig.json
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Program.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Program.pdb
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.csproj.Up2Date
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\LRS\Lab Reservation System\Program\obj\Debug\net6.0-windows\ref\Program.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Program.exe
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\appsettings.json
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Program.deps.json
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Program.runtimeconfig.json
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Program.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Program.pdb
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Azure.Core.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Azure.Identity.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Humanizer.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\System.Memory.Data.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.csproj.AssemblyReference.cache
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.Admin.frmLabs.resources
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.Admin.frmMenu.resources
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.Admin.frmReservations.resources
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.Admin.frmSlot.resources
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.Admin.frmStudent.resources
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.frmLogin.resources
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.frmAvailable.resources
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.frmBookable.resources
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.frmReservation.resources
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.csproj.GenerateResource.cache
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.AssemblyInfoInputs.cache
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.AssemblyInfo.cs
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.csproj.CoreCompileInputs.cache
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.csproj.CopyComplete
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\obj\Debug\net6.0-windows\refint\Program.dll
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.pdb
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\obj\Debug\net6.0-windows\Program.genruntimeconfig.cache
+E:\Ky5FPT\PRN211\projectprn LAB\LRS\Lab Reservation System\Program\obj\Debug\net6.0-windows\ref\Program.dll
